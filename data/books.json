@@ -1,0 +1,58 @@
+[
+  {
+    "book_id": "B001",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "B002",
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B003",
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B004",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B005",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B006",
+    "title": "Hands-On Machine Learning",
+    "author": "Aurelien Geron",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B007",
+    "title": "Python Machine Learning",
+    "author": "Sebastian Raschka",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B008",
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "total_copies": 2,
+    "available_copies": 2
+  }
+]

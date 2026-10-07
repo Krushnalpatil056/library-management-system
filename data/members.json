@@ -1,0 +1,17 @@
+[
+  {
+    "member_id": "M001",
+    "name": "Amit Sharma",
+    "borrowed": {}
+  },
+  {
+    "member_id": "M002",
+    "name": "Neha Kulkarni",
+    "borrowed": {}
+  },
+  {
+    "member_id": "M003",
+    "name": "Krushnal Patil",
+    "borrowed": {}
+  }
+]
